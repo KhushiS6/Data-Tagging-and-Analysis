@@ -4,7 +4,7 @@ Tag free-text fields (Complaint, Cause, Correction) using predefined taxonomy ca
 - Task 2: Data Analysis
 Perform column-wise analysis, data cleaning, and visualization using Python to generate meaningful tags and actionable insights for stakeholders.
 
-Deliverables
+- Deliverables
 
 Cleaned and tagged datasets in CSV/Excel.
 Python scripts for tagging, analysis, and visualization.
