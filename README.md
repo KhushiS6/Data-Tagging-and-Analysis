@@ -1,0 +1,1 @@
+This repository focuses on tagging free-text data using predefined taxonomy categories and generating actionable insights through Python-based exploratory analysis. Deliverables include tagged datasets, visualizations, and reports with recommendations for stakeholders, emphasizing accuracy, scalability, and meaningful insights.
