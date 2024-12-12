@@ -6,14 +6,15 @@ Perform column-wise analysis, data cleaning, and visualization using Python to g
 
 - Deliverables
 
-Cleaned and tagged datasets in CSV/Excel.
-Python scripts for tagging, analysis, and visualization.
-Reports with insights, recommendations, and visualizations.
-Focus Areas
+  - Cleaned and tagged datasets in CSV/Excel.
+  - Python scripts for tagging, analysis, and visualization.
+  - Reports with insights, recommendations, and visualizations.
 
-Accurate tagging aligned with taxonomy.
-Scalable methodology for larger datasets.
-Insights-driven recommendations for stakeholders.
+- Focus Areas
+
+  - Accurate tagging aligned with taxonomy.
+  - Scalable methodology for larger datasets.
+  - Insights-driven recommendations for stakeholders.
 
 
 
